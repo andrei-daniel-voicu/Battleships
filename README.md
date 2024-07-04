@@ -1,7 +1,8 @@
 <!--- insert project logo here -->
 ![](./resourses/screenshot.png)
 
-This game is a first-year student assignment featuring a classic Battleship game enhanced with special abilities for added excitement. It utilizes the ncurses library for efficient terminal graphics.
+<!--- general description of the project -->
+This game is a first-year student assignment featuring a classic Battleship game enhanced with special abilities for added excitement. It utilizes the ncurses library for efficient terminal graphics. For the full project specifications visit the following [link](./resourses/Tema 2 - Battleship Game.pdf).
 
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Simple CLI-like interface  
